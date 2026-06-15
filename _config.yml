@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Chris Zingel"
   avatar : "/assets/images/bio-photo.png"
-  bio    : "As a Data Engineer, I bring extensive expertise in data processing, interpretation, and visualization. My skill set includes proficiency in multiple programming languages, including Ruby, Python, and SAS, as well as experience with Databricks, DBT, and Snowflake."
+  bio    : "As a Data Engineer, I build reliable data platforms that support analytics and decision-making, using tools such as dbt, Snowflake, and Databricks."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
