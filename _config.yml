@@ -1,0 +1,16 @@
+title: "Chris Zingel — Software & Data Engineer"
+description: "Software and Data Engineer specializing in Python, Ruby, Snowflake, dbt and data pipelines."
+lang: en
+
+# Build settings
+markdown: kramdown
+# We ship our own layout/CSS — no theme needed.
+
+# Keep these out of the built site
+exclude:
+  - vendor-icons.sh
+  - vendor-logos.sh
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
