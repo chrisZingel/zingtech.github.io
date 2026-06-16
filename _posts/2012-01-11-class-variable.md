@@ -44,7 +44,8 @@ MyParent.get_happy_variable #=> "this make's me sad"
 ~~~
 Let's take a look at what is going on
 
-<%=image_tag("blog/really_do_not_use_class_variables/incorrect_example.jpg")%>
+<img src="{{ '/assets/images/blog/really_do_not_use_class_variables/incorrect_example.jpg' | relative_url }}" alt="VSCode" itemprop="image"  class="u-photo">
+
 
 The `class variables` `@@happy_variable ` does not belong to either the class or object but rather the class hierarchy, so it can be changed by a child class with dire results. The `@@happy_variable` refers to the same variable across both classes. This wouldn't be the case, if you wrote the same class method in another language like Java.
 

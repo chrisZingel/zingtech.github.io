@@ -51,7 +51,6 @@ title: "Chris Zingel — Software & Data Engineer"
               <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
               Tauranga,New Zealand
             </span>
-            <a class="btn btn-ghost" href="https://YOUR-BUCKET.s3.amazonaws.com/chris-zingel-cv.pdf" download>↓ Download CV</a>
           </div>
         </div>
 
@@ -215,7 +214,7 @@ title: "Chris Zingel — Software & Data Engineer"
             <div>
               <div class="cert-title">SnowPro Core Certification</div>
               <div class="cert-issuer">Snowflake</div>
-              <div class="cert-meta">Issued: Aug 2025 · Expires: Aug 2027<br />Credential ID: 156908869</div>
+              <div class="cert-meta">Issued: Aug 2025 · Expires: Aug 2027<br />Credential ID: 157372816 </div>
               <p class="cert-desc">Certified in Snowflake data warehousing and cloud data platform fundamentals.</p>
             </div>
           </div>
@@ -228,7 +227,7 @@ title: "Chris Zingel — Software & Data Engineer"
             <div>
               <div class="cert-title">dbt Developer</div>
               <div class="cert-issuer">dbt Labs</div>
-              <div class="cert-meta">Issued: Feb 2025 · Expires: Feb 2027<br />Credential ID: 135541190</div>
+              <div class="cert-meta">Issued: Jun 2025 · Expires: Jun 2027<br />Credential ID: 146055304 </div>
               <p class="cert-desc">Certified in building, testing, and deploying data transformation pipelines using dbt.</p>
             </div>
           </div>
